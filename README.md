@@ -10,7 +10,7 @@ I am obsessed with engineering when it is easy to. Personal self-development is 
 Finally, free time – RawspberryPi 🍇! Console games - nah... I love 🖤 keeping my brain busy! Btw, do you play chess ♟? Try challenging! 😏
 
 ## 🖤 Goals
-Struggling with this part. I always have some in mind for my product, less often personally. That's why my number one goal is:
+Struggling with this part. I always have some in mind for my product, less often personally. That's why my number one goals are:
 - 👨🏻‍🎓 MSc in Software Engineering - Success isn’t solely defined by the amount you can gain, but also by the amount you can give back. I look forward to elevating my expertise and enabling me to contribute more to the industry
 - 🤖 Master Machine Learning and AI
 
@@ -21,3 +21,4 @@ Struggling with this part. I always have some in mind for my product, less often
 
 ## 📢 Reach-out & support
 - You can always [buy me a coffee ☕](https://www.buymeacoffee.com/winniepukki)! Seriously, coding makes me drink loooads of it!
+- Follow me on [twitter](https://twitter.com/winniepukki). Tweet @winniepukki for any questions.
