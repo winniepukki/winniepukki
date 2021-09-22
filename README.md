@@ -1,5 +1,5 @@
 # Hi there! 👋🏻
-An ambitious bad boy from the dark-side neighbourhood who currently undertakes Bachelor's in Software Engineering from Southampton Solent University. Dreams don't work unless you do! 🏋🏻‍♀️
+An ambitious bad boy who currently undertakes Bachelor's in Software Engineering from Southampton Solent University. Dreams don't work unless you do! 🏋🏻‍♀️
 
 ## 🤤 Passions
 I am obsessed with engineering when it is easy to. Personal self-development is one of my main goals. How do I approach this?
