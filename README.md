@@ -15,7 +15,6 @@ Struggling with this part. I always have some in mind for my product, less often
 - 🤖 Master Machine Learning and AI
 
 ## 💼 Projects
-- [CreamCamp](https://cream.camp) - one of my greatest adventures
 - [ScandiPWA](https://github.com/winniepukki/scandipwa) - worth the most of my effort
 - [Reaktive](https://github.com/reaktivelab) – remarkable experience
 - [Winniepukki Guardian](https://www.npmjs.com/package/eslint-config-winniepukki-guardian) - caring hands
