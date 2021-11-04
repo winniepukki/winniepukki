@@ -17,6 +17,7 @@ Struggling with this part. I always have some in mind for my product, less often
 ## 💼 Projects
 - [ScandiPWA](https://github.com/winniepukki/scandipwa) - worth the most of my effort
 - [Reaktive](https://github.com/reaktivelab) – remarkable experience
+- [Trinat](https://github.com/winniepukki/trinat) – continuous learning experience
 - [Winniepukki Guardian](https://www.npmjs.com/package/eslint-config-winniepukki-guardian) - caring hands
 - [Winniepukki Guidelines](https://www.npmjs.com/package/eslint-plugin-winniepukki-guidelines) - accessibility rules checker
 
