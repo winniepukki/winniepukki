@@ -4,7 +4,7 @@ An ambitious bad boy who currently undertakes Bachelor's in Software Engineering
 Currently in Top 20 [GitHub Users By Public Contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/latvia.md) in Latvia
 
 ## 🤤 Passions
-I am obsessed with engineering when it is easy to. Personal self-development is one of my main goals. How do I approach this?
+Personal self-development is one of my main goals. How do I approach this?
 - 👨🏻‍💻 Constant contributions to numerous projects. I love developing mine onse too!
 - ⚠️ Tools for code-linting and CR automation. Quality and consistency.
 - 📒 Docs. A lot of docs. Many iterations, a lot of theory.
