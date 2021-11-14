@@ -13,8 +13,8 @@ Finally, free time – RawspberryPi 🍇! Console games - nah... I love 🖤 kee
 
 ## 🚀 Goals
 Struggling with this part. I always have some in mind for my product, less often personally. That's why my number one goals are:
-- 👨🏻‍🎓 MSc in Software Engineering - Success isn’t solely defined by the amount you can gain, but also by the amount you can give back. I look forward to elevating my expertise and enabling me to contribute more to the industry
-- 🤖 Master Machine Learning and AI
+- 👨🏻‍🎓 Significant Industry Contribution - Success isn’t solely defined by the amount you can gain, but also by the amount you can give back. I look forward to elevating my expertise and enabling me to contribute more to the industry
+- 👨🏻‍💻 Master the iOS and Swift development
 
 ## 💼 Projects
 - [ScandiPWA](https://github.com/winniepukki/scandipwa) - worth the most of my effort
