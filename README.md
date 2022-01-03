@@ -23,6 +23,10 @@ Struggling with this part. I always have some in mind for my product, less often
 - [Winniepukki Guardian](https://www.npmjs.com/package/eslint-config-winniepukki-guardian) - caring hands
 - [Winniepukki Guidelines](https://www.npmjs.com/package/eslint-plugin-winniepukki-guidelines) - accessibility rules checker
 
+**🎙 Listen to my Podcast**
+- [Sense of Human on Spotify](https://open.spotify.com/show/29hzJa9wV3tFi6NCflERKH?si=6aa92cef212645a0)
+- [Sense of Human on iTunes](https://podcasts.apple.com/lv/podcast/sense-of-human/id1601599477)
+
 ## 📢 Reach-out & support
 - You can always [buy me a coffee ☕](https://www.buymeacoffee.com/winniepukki)! Seriously, coding makes me drink loooads of it!
 - Follow me on [twitter](https://twitter.com/winniepukki). Tweet @winniepukki for any questions.
