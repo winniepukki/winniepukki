@@ -25,7 +25,8 @@ Struggling with this part. I always have some in mind for my product, less often
 
 **🎙 Listen to my Podcast**
 - [Sense of Human on Spotify](https://open.spotify.com/show/29hzJa9wV3tFi6NCflERKH?si=6aa92cef212645a0)
-- [Sense of Human on iTunes](https://podcasts.apple.com/lv/podcast/sense-of-human/id1601599477)
+- [Sense of Human on Podcasts](https://podcasts.apple.com/lv/podcast/sense-of-human/id1601599477)
+- [Sense of Human on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3dpbm5pZXB1a2tpL2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahcKEwj49ubBwa_1AhUAAAAAHQAAAAAQCQ)
 
 ## 📢 Reach-out & support
 - You can always [buy me a coffee ☕](https://www.buymeacoffee.com/winniepukki)! Seriously, coding makes me drink loooads of it!
