@@ -17,9 +17,8 @@ Struggling with this part. I always have some in mind for my product, less often
 - 👨🏻‍💻 Master the iOS and Swift development
 
 ## 💼 Projects
-- [ScandiPWA](https://github.com/winniepukki/scandipwa) - worth the most of my effort
-- [Reaktive](https://github.com/reaktivelab) – remarkable experience
-- [Trinat](https://github.com/winniepukki/trinat) – continuous learning experience
+- [ScandiPWA](https://github.com/winniepukki/scandipwa) - worthed the most of my effort
+- [Trinat](https://github.com/winniepukki/trinat) – continuous business and learning experience
 - [Winniepukki Guardian](https://www.npmjs.com/package/eslint-config-winniepukki-guardian) - caring hands
 - [Winniepukki Guidelines](https://www.npmjs.com/package/eslint-plugin-winniepukki-guidelines) - accessibility rules checker
 
@@ -28,7 +27,9 @@ Struggling with this part. I always have some in mind for my product, less often
 - [Sense of Human on Podcasts](https://podcasts.apple.com/lv/podcast/sense-of-human/id1601599477)
 - [Sense of Human on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3dpbm5pZXB1a2tpL2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahcKEwj49ubBwa_1AhUAAAAAHQAAAAAQCQ)
 
+**✍🏻 Read my Medium articles**
+- Read my articles on [Medium](https://winniepukki.medium.com/). Personal experience, guidelines and all fun is out there for free!
+
 ## 📢 Reach-out & support
 - You can always [buy me a coffee ☕](https://www.buymeacoffee.com/winniepukki)! Seriously, coding makes me drink loooads of it!
 - Follow me on [twitter](https://twitter.com/winniepukki). Tweet @winniepukki for any questions.
-- Read my articles on [medium](https://winniepukki.medium.com/). Personal experience, guidelines and all fun is out there for free!
