@@ -19,14 +19,8 @@ Struggling with this part. I always have some in mind for my product, less often
 ## 💼 Projects
 - [ScandiPWA](https://github.com/winniepukki/scandipwa) - worthed the most of my effort
 - [Trinat](https://github.com/winniepukki/trinat) – continuous business and learning experience
-- [LDG Service](https://ldgservis.eu) – specific customer and environment experience
 - [Winniepukki Guardian](https://www.npmjs.com/package/eslint-config-winniepukki-guardian) - caring hands
 - [Winniepukki Guidelines](https://www.npmjs.com/package/eslint-plugin-winniepukki-guidelines) - accessibility rules checker
-
-**🎙 Listen to my Podcast**
-- [Sense of Human on Spotify](https://open.spotify.com/show/29hzJa9wV3tFi6NCflERKH?si=6aa92cef212645a0)
-- [Sense of Human on Podcasts](https://podcasts.apple.com/lv/podcast/sense-of-human/id1601599477)
-- [Sense of Human on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3dpbm5pZXB1a2tpL2ZlZWQueG1s?sa=X&ved=0CAMQ4aUDahcKEwj49ubBwa_1AhUAAAAAHQAAAAAQCQ)
 
 **✍🏻 Read my Medium articles**
 - Read my articles on [Medium](https://winniepukki.medium.com/). Personal experience, guidelines and all fun is out there for free!
