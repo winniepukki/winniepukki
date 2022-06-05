@@ -19,8 +19,7 @@ Struggling with this part. I always have some in mind for my product, less often
 ## 💼 Projects
 - [ScandiPWA](https://github.com/winniepukki/scandipwa) - worthed the most of my effort
 - [Trinat](https://github.com/winniepukki/trinat) – continuous business and learning experience
-- [Winniepukki Guardian](https://www.npmjs.com/package/eslint-config-winniepukki-guardian) - caring hands
-- [Winniepukki Guidelines](https://www.npmjs.com/package/eslint-plugin-winniepukki-guidelines) - accessibility rules checker
+- [Reaktive](https://github.com/reaktivelab) - powerful commercial experience outside University
 
 **✍🏻 Read my Medium articles**
 - Read my articles on [Medium](https://winniepukki.medium.com/). Personal experience, guidelines and all fun is out there for free!
