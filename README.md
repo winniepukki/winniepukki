@@ -1,5 +1,5 @@
 # Hi there! 👋🏻
-An ambitious bad boy who currently undertakes Bachelor's in Software Engineering from Southampton Solent University. Dreams don't work unless you do! 🏋🏻‍♀️
+BSc Software Engineering from Southampton Solent University. Dreams don't work unless you do! 🏋🏻‍♀️
 
 Currently in Top 20 [GitHub Users By Public Contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/latvia.md) in Latvia
 
