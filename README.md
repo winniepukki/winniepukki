@@ -19,10 +19,11 @@ Struggling with this part. I always have some in mind for my product, less often
 ## 💼 Projects
 - [ScandiPWA](https://github.com/winniepukki/scandipwa) - worthed the most of my effort
 - [Trinat](https://github.com/winniepukki/trinat) – continuous business and learning experience
-- [Reaktive](https://github.com/reaktivelab) - powerful commercial experience outside University
 
-**✍🏻 Read my Medium articles**
-- Read my articles on [Medium](https://winniepukki.medium.com/). Personal experience, guidelines and all fun is out there for free!
+## ✍🏻 My Blog Articles
+- [ES6: Array methods explained](https://winniepukki.medium.com/es6-array-methods-explained-f1cd6e03d3af)
+- [React Hooks Explained](https://magebit.com/blog/react-hooks-explained-part-two.html)
+- [Intersection Observer – In a Nutshell](https://magebit.com/blog/learn-intersection-observer.html)
 
 ## 📢 Reach-out & support
 - You can always [buy me a coffee ☕](https://www.buymeacoffee.com/winniepukki)! Seriously, coding makes me drink loooads of it!
