@@ -1,7 +1,5 @@
 ### :wave: Hey there!
 
-Currently in [Top 20 GitHub Public Contributors](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/latvia.md) in Latvia.
-
 - 🌎 I work remotely from Southampton, UK
 - 👨🏻‍🎓 MSc Digital Design (Distinctions), BSc Software Engineering (1st Class) from Solent University
 - 🅿️ Proud owner of [Elfapark](https://elfapark.com), [Copilot](https://copilotapp.dev), and [Trinat](https://trinat.lv)
